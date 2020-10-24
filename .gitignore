@@ -1,3 +1,4 @@
+# Haskell things to ignore
 dist
 dist-*
 cabal-dev
