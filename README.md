@@ -6,4 +6,7 @@ I encourage you to take a look at:
 https://projecteuler.net/
 
 ### This repository contains the following Euler problems
+* Problem 7
+* Problem 20
 * Problem 25
+* Problem 48
